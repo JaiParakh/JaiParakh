@@ -35,3 +35,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Click on the Gmail Icon above.
 - ⚡ Fun fact: I published one of the best blogs on [GMAIL API](https://medium.com/@parakh.js/how-to-use-gmail-api-with-node-js-part-1-b17097a64990).
 
+[![Jai's github stats](https://github-readme-stats.vercel.app/api?username=JaiParakh)](https://jaiparakh.tech/)
+
