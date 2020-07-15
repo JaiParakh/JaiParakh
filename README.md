@@ -24,7 +24,7 @@
 Here are some ideas to get you started:  
 -->
 
-#### I am [Jai](https://jaiparakh.tech/), a Fullstack Developer, Blogger, Mentor and Blockchain Developer, currently pursuing Bachelors Degree in Computer Science and Engineering 👨‍🎓. I code mostly in Javascript 👨‍💻 and blog about the technologies I use in my projects. When I'm not developing and building things, you can find me on Medium reading, writing an article, watching Star Wars 📺, or playing GTA Online/Star Wars Battlefront-2 :video_game: .
+### I am [Jai](https://jaiparakh.tech/), a Fullstack Developer, Blogger, Mentor and Blockchain Developer, currently pursuing Bachelors Degree in Computer Science and Engineering 👨‍🎓. I code mostly in Javascript 👨‍💻 and blog about the technologies I use in my projects. When I'm not developing and building things, you can find me on Medium reading, writing an article, watching Star Wars 📺, or playing GTA Online/Star Wars Battlefront-2 :video_game: .
 
 
 - 🔭 I’m currently working on a subscription manager app ([Subzcribe](https://play.google.com/store/apps/details?id=com.subzcribe)).
