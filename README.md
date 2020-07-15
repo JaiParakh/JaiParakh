@@ -24,13 +24,13 @@
 Here are some ideas to get you started:  
 -->
 
-#### I am Jai, a Fullstack Developer, Blogger, Mentor and Blockchain Developer, currently pursuing Bachelors Degree in Computer Science and Engineering. I code mostly in Javascript and blog about the technologies I use in my projects. When I'm not developing and building things, you can find me on Medium reading, writing an article, watching Star Wars, or playing Star Wars Battlefront-2.
+#### I am [Jai](https://jaiparakh.tech/), a Fullstack Developer, Blogger, Mentor and Blockchain Developer, currently pursuing Bachelors Degree in Computer Science and Engineering 👨‍🎓. I code mostly in Javascript 👨‍💻 and blog about the technologies I use in my projects. When I'm not developing and building things, you can find me on Medium reading, writing an article, watching Star Wars 📺, or playing GTA Online/Star Wars Battlefront-2 :video_game: .
 
 
 - 🔭 I’m currently working on a subscription manager app ([Subzcribe](https://play.google.com/store/apps/details?id=com.subzcribe)).
 - 🌱 I’m currently learning blockchain development.
 - 👯 I’m looking to collaborate on Dapps.
-- 🤔 I’m looking for help with IPFS.
+- 🤔 I’m looking for help with IPFS and OrbitDB.
 - 💬 Ask me anything about Node.js and APIs
 - 📫 How to reach me: Click on the Gmail Icon above.
 - ⚡ Fun fact: I published one of the best blogs on [GMAIL API](https://medium.com/@parakh.js/how-to-use-gmail-api-with-node-js-part-1-b17097a64990).
