@@ -15,19 +15,22 @@
 <a href="https://www.instagram.com/parakh.js/">
   <img align="left" alt="Jai Parakh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
+
+<br>
 <!--
 **JaiParakh/JaiParakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](https://emojis.slackmojis.com/emojis/images/1526741134/3958/storm_trooper.gif?1526741134)
-Here are some ideas to get you started: 
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Here are some ideas to get you started:  
 -->
+
+#### I am Jai, a Fullstack Developer, Blogger, Mentor and Blockchain Developer. I code mostly in Javascript and blog about the technologies I use in my projects.
+
+
+- 🔭 I’m currently working on a subscription manager app (Subzcribe).
+- 🌱 I’m currently learning blockchain development.
+- 👯 I’m looking to collaborate on Dapps.
+- 🤔 I’m looking for help with IPFS.
+- 💬 Ask me anything about Node.js and APIs
+- 📫 How to reach me: Click on the Gmail Icon above.
+- ⚡ Fun fact: I published one of the best blogs on GMAIL API.
