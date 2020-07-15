@@ -22,8 +22,6 @@
 **JaiParakh/JaiParakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](https://emojis.slackmojis.com/emojis/images/1526741134/3958/storm_trooper.gif?1526741134)
 Here are some ideas to get you started:  
-
-[![HitCount](http://hits.dwyl.com/JaiParakh/https://githubcom/JaiParakh/JaiParakh/.svg)](http://hits.dwyl.com/JaiParakh/https://githubcom/JaiParakh/JaiParakh/)
 -->
 
 #### I am Jai, a Fullstack Developer, Blogger, Mentor and Blockchain Developer, currently pursuing Bachelors Degree in Computer Science and Engineering. I code mostly in Javascript and blog about the technologies I use in my projects. When I'm not developing and building things, you can find me on Medium reading, writing an article, watching Star Wars, or playing Star Wars Battlefront-2.
