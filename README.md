@@ -37,6 +37,12 @@ Here are some ideas to get you started:
 
 ## Skills
 
+<table border="0">
+  <tr>
+    <th>Languages</th>
+  </tr>
+</table>
+
 ### Languages
 <p float="left">
     <img src="https://simpleicons.org/icons/javascript.svg" width="45px">&nbsp&nbsp&nbsp
