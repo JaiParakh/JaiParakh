@@ -51,14 +51,10 @@ Here are some ideas to get you started:
     <img src="https://simpleicons.org/icons/node-dot-js.svg" width="45px">&nbsp&nbsp&nbsp
 </p>
 
-### Database
+### Database/Blockchain
 <p float="left">
     <img src="https://simpleicons.org/icons/mongodb.svg" width="45px">&nbsp&nbsp&nbsp
     <img src="https://simpleicons.org/icons/mysql.svg" width="45px">&nbsp&nbsp&nbsp
-</p>
-
-### Blockchain
-<p float="left">
     <img src="https://simpleicons.org/icons/ethereum.svg" width="45px">&nbsp&nbsp&nbsp
     <img src="https://simpleicons.org/icons/ipfs.svg" width="45px">&nbsp&nbsp&nbsp
 </p>
