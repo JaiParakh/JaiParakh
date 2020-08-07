@@ -26,14 +26,55 @@ Here are some ideas to get you started:
 
 ### I am [Jai](https://jaiparakh.tech/), a Fullstack Developer, Blogger, Mentor and Blockchain Developer, currently pursuing Bachelors Degree in Computer Science and Engineering 👨‍🎓. I code mostly in Javascript 👨‍💻 and blog about the technologies I use in my projects. When I'm not developing and building things, you can find me on Medium reading, writing an article, watching Star Wars 📺, or playing GTA Online/Star Wars Battlefront-2 :video_game: .
 
-
 - 🔭 I’m currently working on a subscription manager app ([Subzcribe](https://play.google.com/store/apps/details?id=com.subzcribe)).
 - 🌱 I’m currently learning blockchain development.
 - 👯 I’m looking to collaborate on Dapps.
 - 🤔 I’m looking for help with IPFS and OrbitDB.
 - 💬 Ask me anything about Node.js and APIs
 - 📫 How to reach me: Click on the Gmail Icon above.
-- ⚡ Fun fact: I published one of the best blogs on [GMAIL API](https://medium.com/@parakh.js/how-to-use-gmail-api-with-node-js-part-1-b17097a64990).
+- ⚡ Fun fact: I have published one of the best blogs on [GMAIL API](https://medium.com/@parakh.js/how-to-use-gmail-api-with-node-js-part-1-b17097a64990).
+
+
+## Skills
+
+### Languages
+<p float="left">
+    <img src="https://simpleicons.org/icons/javascript.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/cplusplus.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/python.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/c.svg" width="45px">&nbsp&nbsp&nbsp
+</p>
+
+### Framework/Runtime Environment
+<p float="left">
+    <img src="https://simpleicons.org/icons/next-dot-js.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/node-dot-js.svg" width="45px">&nbsp&nbsp&nbsp
+</p>
+
+### Database
+<p float="left">
+    <img src="https://simpleicons.org/icons/mongodb.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/mysql.svg" width="45px">&nbsp&nbsp&nbsp
+</p>
+
+### Frontend
+<p float="left">
+    <img src="https://simpleicons.org/icons/react.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/bootstrap.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/css3.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/html5.svg" width="45px">&nbsp&nbsp&nbsp
+</p>
+
+### Cloud/APIs
+<p float="left">
+    <img src="https://simpleicons.org/icons/googlecloud.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/amazonaws.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/vercel.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/heroku.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/gmail.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/googledrive.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/googlecalendar.svg" width="45px">&nbsp&nbsp&nbsp
+</p>
 
 [![Jai's github stats](https://github-readme-stats.vercel.app/api?username=JaiParakh)](https://jaiparakh.tech/)
 
