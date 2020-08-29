@@ -76,6 +76,7 @@ Here are some ideas to get you started:
     <img src="https://simpleicons.org/icons/gmail.svg" width="45px">&nbsp&nbsp&nbsp
     <img src="https://simpleicons.org/icons/googledrive.svg" width="45px">&nbsp&nbsp&nbsp
     <img src="https://simpleicons.org/icons/googlecalendar.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/openlayers.svg" width="45px">&nbsp&nbsp&nbsp
 </p>
 
 [![Jai's github stats](https://github-readme-stats.vercel.app/api?username=JaiParakh)](https://jaiparakh.tech/)
