@@ -15,6 +15,9 @@
 <a href="https://www.instagram.com/parakh.js/">
   <img align="left" alt="Jai Parakh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://www.hackerrank.com/jaiparakh_kota_1/">
+  <img align="left" alt="Jai Parakh" width="22px" src="https://simpleicons.org/icons/hackerrank.svg" />
+</a>
 
 
 <br>
@@ -55,6 +58,7 @@ Here are some ideas to get you started:
 <p float="left">
     <img src="https://simpleicons.org/icons/mongodb.svg" width="45px">&nbsp&nbsp&nbsp
     <img src="https://simpleicons.org/icons/mysql.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/firebase.svg" width="45px">&nbsp&nbsp&nbsp
     <img src="https://simpleicons.org/icons/ethereum.svg" width="45px">&nbsp&nbsp&nbsp
     <img src="https://simpleicons.org/icons/ipfs.svg" width="45px">&nbsp&nbsp&nbsp
 </p>
@@ -65,6 +69,7 @@ Here are some ideas to get you started:
     <img src="https://simpleicons.org/icons/bootstrap.svg" width="45px">&nbsp&nbsp&nbsp
     <img src="https://simpleicons.org/icons/css3.svg" width="45px">&nbsp&nbsp&nbsp
     <img src="https://simpleicons.org/icons/html5.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/fontawesome.svg" width="45px">&nbsp&nbsp&nbsp
 </p>
 
 ### Cloud/APIs
