@@ -18,9 +18,6 @@
 <a href="https://www.hackerrank.com/jaiparakh_kota_1/">
   <img align="left" alt="Jai Parakh" width="22px" src="https://simpleicons.org/icons/hackerrank.svg" />
 </a>
-<a href="https://www.hackerrank.com/jaiparakh_kota_1/">
-  <img align="left" alt="Jai Parakh" width="22px" src="https://simpleicons.org/icons/hackerrank.svg" />
-</a>
 <a href="https://angel.co/u/jai-parakh">
   <img align="left" alt="Jai Parakh" width="22px" src="https://simpleicons.org/icons/angellist.svg" />
 </a>
