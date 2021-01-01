@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/jai-parakh-5626b4178/">
   <img align="left" alt="Jai Parakh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://medium.com/@parakh.js">
+<a href="https://parakh-js.medium.com/">
   <img align="left" alt="Jai Parakh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=contact.jaiparakh@gmail.com&tf=1">
