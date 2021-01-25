@@ -9,6 +9,9 @@
 <a href="https://parakh-js.medium.com/">
   <img align="left" alt="Jai Parakh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+<a href="https://play.google.com/store/apps/details?id=com.griffin.parakh.js">
+  <img align="left" alt="Jai Parakh" width="22px" src="https://simpleicons.org/icons/googleplay.svg" />
+</a>
 <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=contact.jaiparakh@gmail.com&tf=1">
   <img align="left" alt="Jai Parakh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
