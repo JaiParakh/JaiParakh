@@ -24,6 +24,9 @@
 <a href="https://my.indeed.com/p/jaip-1aizney">
   <img align="left" alt="Jai Parakh" width="22px" src="https://simpleicons.org/icons/indeed.svg" />
 </a>
+<a href="https://www.upwork.com/o/profiles/users/~0145f308dc6106b9a9/">
+  <img align="left" alt="Jai Parakh" width="22px" src="https://simpleicons.org/icons/upwork.svg" />
+</a>
 <a href="https://www.fiverr.com/jaiparakh">
   <img align="left" alt="Jai Parakh" width="22px" src="https://simpleicons.org/icons/fiverr.svg" />
 </a>
