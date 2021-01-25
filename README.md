@@ -24,6 +24,9 @@
 <a href="https://my.indeed.com/p/jaip-1aizney">
   <img align="left" alt="Jai Parakh" width="22px" src="https://simpleicons.org/icons/indeed.svg" />
 </a>
+<a href="https://www.fiverr.com/jaiparakh">
+  <img align="left" alt="Jai Parakh" width="22px" src="https://simpleicons.org/icons/fiverr.svg" />
+</a>
 
 
 <br>
