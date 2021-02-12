@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 ### I am [Jai](https://jaiparakh.tech/), a Fullstack Web/App Developer, Blogger, Mentor and Blockchain Developer, currently pursuing Bachelors Degree in Computer Science and Engineering 👨‍🎓. I code mostly in Javascript 👨‍💻 and blog about the technologies I use in my projects. When I'm not developing and building things, you can find me on Medium reading, writing an article, watching Star Wars 📺, or playing Witcher 3/Star Wars Battlefront-2 :video_game: .
 
 - 🔭 I’m currently working on an app that helps in tracking Job Applications ([Griffin](https://play.google.com/store/apps/details?id=com.griffin.parakh.js)).
-- 💰 I’m open to freelancing. If you have a project in mind, do drop a mail by clicking the GMAIL Icon above.
-- 💬 Do Follow me on Medium to get a weekly dose of fresh articles.
+- 💰 I’m open to freelancing. If you have a project in mind, drop a mail by clicking the GMAIL Icon above.
+- 💬 Follow me on Medium to get a weekly dose of fresh articles.
 - 📫 How to reach me: Click on the Gmail Icon above.
 - ⚡ Fun fact: I have published one of the best blogs on [GMAIL API](https://medium.com/@parakh.js/how-to-use-gmail-api-with-node-js-part-1-b17097a64990).
 
