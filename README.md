@@ -65,12 +65,13 @@ Here are some ideas to get you started:
 <p float="left">
     <img src="https://simpleicons.org/icons/nextdotjs.svg" width="45px">&nbsp&nbsp&nbsp
     <img src="https://simpleicons.org/icons/expo.svg" width="45px">&nbsp&nbsp&nbsp
-    <img src="https://simpleicons.org/icons/node-dot-js.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/nodedotjs.svg" width="45px">&nbsp&nbsp&nbsp
 </p>
 
 ### Database/Blockchain
 <p float="left">
     <img src="https://simpleicons.org/icons/mongodb.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/postgresql.svg" width="45px">&nbsp&nbsp&nbsp
     <img src="https://simpleicons.org/icons/mysql.svg" width="45px">&nbsp&nbsp&nbsp
     <img src="https://simpleicons.org/icons/firebase.svg" width="45px">&nbsp&nbsp&nbsp
     <img src="https://simpleicons.org/icons/ethereum.svg" width="45px">&nbsp&nbsp&nbsp
@@ -80,7 +81,7 @@ Here are some ideas to get you started:
 ### Frontend
 <p float="left">
     <img src="https://simpleicons.org/icons/react.svg" width="45px">&nbsp&nbsp&nbsp
-    <img src="https://simpleicons.org/icons/material-ui.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/mui.svg" width="45px">&nbsp&nbsp&nbsp
     <img src="https://simpleicons.org/icons/bootstrap.svg" width="45px">&nbsp&nbsp&nbsp
     <img src="https://simpleicons.org/icons/css3.svg" width="45px">&nbsp&nbsp&nbsp
     <img src="https://simpleicons.org/icons/html5.svg" width="45px">&nbsp&nbsp&nbsp
