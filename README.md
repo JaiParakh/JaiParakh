@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 ### Framework/Runtime Environment
 <p float="left">
-    <img src="https://simpleicons.org/icons/next-dot-js.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/nextdotjs.svg" width="45px">&nbsp&nbsp&nbsp
     <img src="https://simpleicons.org/icons/expo.svg" width="45px">&nbsp&nbsp&nbsp
     <img src="https://simpleicons.org/icons/node-dot-js.svg" width="45px">&nbsp&nbsp&nbsp
 </p>
