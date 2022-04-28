@@ -42,7 +42,7 @@
 Here are some ideas to get you started:  
 -->
 
-### I am [Jai](https://www.parakhjs.codes/), a Fullstack Web/App Developer, Blogger, Mentor and Blockchain Developer, currently working at 5C Network as a Backend Developer. I code mostly in Javascript 👨‍💻 and blog about the technologies I use in my projects. When I'm not developing and building things, you can find me on Medium reading, writing an article, watching Star Wars 📺, or playing Red Dead Redemption 2/Age of Empires 4 :video_game: .
+### I am [Jai](https://www.parakhjs.codes/), a Fullstack Web/App Developer, Blogger, Mentor and Blockchain Developer, currently working at 5C Network as a Backend Developer 💼. I code mostly in Javascript 👨‍💻 and blog about the technologies I use in my projects. When I'm not developing and building things, you can find me on Medium reading, writing an article, watching Star Wars 📺, or playing Red Dead Redemption 2/Age of Empires 4 :video_game: .
 
 - 🔭 I’m currently working on Ameeba. It is developer tool that creates multiple versions (responses) of an API to test the UI behaviour for different data sets coming from the same API ([Ameeba](https://ameeba.io/)).
 - 💰 I’m open to freelancing. If you have a project in mind, drop a mail by clicking the GMAIL Icon above.
