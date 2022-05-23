@@ -59,6 +59,7 @@ Here are some ideas to get you started:
     <img src="https://simpleicons.org/icons/cplusplus.svg" width="45px">&nbsp&nbsp&nbsp
     <img src="https://simpleicons.org/icons/python.svg" width="45px">&nbsp&nbsp&nbsp
     <img src="https://simpleicons.org/icons/c.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/typescript.svg" width="45px">&nbsp&nbsp&nbsp
 </p>
 
 ### Framework/Runtime Environment
