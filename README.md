@@ -67,6 +67,7 @@ Here are some ideas to get you started:
     <img src="https://simpleicons.org/icons/nextdotjs.svg" width="45px">&nbsp&nbsp&nbsp
     <img src="https://simpleicons.org/icons/expo.svg" width="45px">&nbsp&nbsp&nbsp
     <img src="https://simpleicons.org/icons/nodedotjs.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/express.svg" width="45px">&nbsp&nbsp&nbsp
     <img src="https://simpleicons.org/icons/createreactapp.svg" width="45px">&nbsp&nbsp&nbsp
 </p>
 
