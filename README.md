@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 
 ### I am [Jai](https://www.parakhjs.com/), a Fullstack Web/App Developer, Blogger, Mentor and Blockchain Developer, currently working at Blkbox.ai as SDE-2 💼. I code mostly in Javascript 👨‍💻 and blog about the technologies I use in my projects. When I'm not developing and building things, you can find me on Medium reading, writing an article, watching Star Wars 📺, or playing Red Dead Redemption 2/Age of Empires 4 :video_game: .
 
-- 🔭 I’m currently working on Ameeba. It is a developer tool that creates multiple versions (responses) of an API to test the UI behaviour for different data sets coming from the same API ([Ameeba](https://ameeba.io/)).
+- 🔭 I’m currently working on Ameeba. It is a developer tool that creates multiple versions (responses) of an API to test the UI behavior for different data sets coming from the same API ([Ameeba](https://ameeba.io/)).
 - 💰 I’m open to freelancing. If you have a project in mind, drop a mail by clicking the GMAIL Icon above.
-- 💬 Follow me on Medium to get a weekly dose of fresh articles.
+- 💬 Follow me on Medium for a weekly dose of fresh articles.
 - 📫 How to reach me: Click on the Gmail Icon above.
 - ⚡ Fun fact: I have published one of the best blogs on [GMAIL API](https://medium.com/@parakh.js/how-to-use-gmail-api-with-node-js-part-1-b17097a64990).
 
@@ -102,6 +102,3 @@ Here are some ideas to get you started:
     <img src="https://simpleicons.org/icons/googlecalendar.svg" width="45px">&nbsp&nbsp&nbsp
     <img src="https://simpleicons.org/icons/openlayers.svg" width="45px">&nbsp&nbsp&nbsp
 </p>
-
-[![Jai's github stats](https://github-readme-stats.vercel.app/api?username=JaiParakh)](https://jaiparakh.tech/)
-
