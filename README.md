@@ -36,9 +36,23 @@ RapidMock accelerates frontend development by mocking endpoints with real respon
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linked-in&logoColor=white&link=https://www.linkedin.com/in/jai-parakh-5626b4178/)](https://www.linkedin.com/in/jai-parakh-5626b4178/)
-[![Website](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://www.parakhjs.com)](https://www.parakhjs.com)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:jaiparakh.kota.10@gmail.com)](mailto:jaiparakh.kota.10@gmail.com)
+<div align="left">
+  <a >
+    <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://www.parakhjs.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-4285F4?style=for-the-badge&logo=browser&logoColor=white" alt="Website"/>
+  </a>&nbsp;&nbsp;
+  
+  <a href="mailto:jaiparakh.kota.10@gmail.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://github.com/JaiParakh">
+    <img src="https://custom-icon-badges.demolab.com/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>&nbsp;&nbsp;
+</div>
 
 ---
 ⭐️ From [JaiParakh](https://github.com/JaiParakh)
