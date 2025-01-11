@@ -36,7 +36,7 @@ RapidMock accelerates frontend development by mocking endpoints with real respon
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-Jai_Parakh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jai-parakh-5626b4178/)](https://www.linkedin.com/in/jai-parakh-5626b4178/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linked-in&logoColor=white&link=https://www.linkedin.com/in/jai-parakh-5626b4178/)](https://www.linkedin.com/in/jai-parakh-5626b4178/)
 [![Website](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://www.parakhjs.com)](https://www.parakhjs.com)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:jaiparakh.kota.10@gmail.com)](mailto:jaiparakh.kota.10@gmail.com)
 
