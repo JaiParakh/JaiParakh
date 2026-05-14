@@ -19,11 +19,11 @@ I care about systems that actually run in production and handle failures gracefu
 **Full-Stack Products**  
 ⚡ Designed and shipped RapidMock—a SaaS tool that lets frontend developers mock API endpoints without waiting for backends. Built a subscription management platform from zero to market. Shipped end-to-end systems from data ingestion to user-facing products.
 
-## 🛠️ Tech Stack
+## Stack Snapshot
 
 **Languages:** Python, JavaScript/TypeScript, C#  
 **Backend:** Node.js, Express, REST APIs, WebSockets  
-**ML/AI:** PyTorch, scikit-learn, Pandas, NumPy, Optuna  
+**ML/AI:** PyTorch, scikit-learn, DEAP, Pandas, NumPy, Optuna  
 **Cloud:** AWS (SageMaker, Lambda, SQS, DynamoDB, S3, CloudWatch, X-Ray), GCP  
 **Databases:** PostgreSQL, MongoDB, Redis  
 **Frontend:** React, Next.js, Tailwind CSS
