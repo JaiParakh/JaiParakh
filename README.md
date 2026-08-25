@@ -38,7 +38,7 @@ Architecture:    Microservices, Monolithic
 ### [CocktailAI](https://parakhjs.me/projects/cocktail-ai)
 Full-stack app pairing a genetic algorithm with an async AWS pipeline (SageMaker, SQS, Lambda) to generate cocktail recommendations. Batch inference design cut SageMaker calls by 99.9% (150K to 150 per run).
 
-### [RapidMock]([https://www.rapidmock.vercel.app/](https://rapidmock.vercel.app/))
+### [RapidMock](https://rapidmock.vercel.app/)
 RapidMock accelerates frontend development by mocking endpoints with real responses like 200, 404, 500, and many more, all with a single click and no change in frontend code.
 
 ### [ConvNeXt Sketch Classifier](https://github.com/JaiParakh/ConvNext-Quickdraw)
