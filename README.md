@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jai Parakh
 
-> Backend and full-stack engineer with a completed MSc in Artificial Intelligence & Machine Learning. I build scalable systems, data pipelines, and intelligent products end-to-end.
+> Backend and full-stack engineer with a completed MSc in Artificial Intelligence & Machine Learning from University of Limerick. I build scalable systems, data pipelines, and intelligent products end-to-end.
 
 ## 🚀 About Me
 
