@@ -60,6 +60,6 @@ Based in Dublin. Authorized to work in Ireland. Available immediately.
 Always open to building and discussing new ideas, software development, or market validation. Just drop a mail and we can schedule a call.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jai-parakh-5626b4178/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://parakhjs.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://parakhjs.me/r/github)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.jaiparakh@gmail.com)
 
